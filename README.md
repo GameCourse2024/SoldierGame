@@ -1,4 +1,4 @@
-# SoldierGame
+# SoldierGame - Itamar Cohen
 - Kill the enemies and try to stay alive
 - Player has 5 HP
 - Move with arrows
